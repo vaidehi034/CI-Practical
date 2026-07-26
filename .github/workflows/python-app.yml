@@ -19,4 +19,4 @@ jobs:
         python-version: '3.13'
 
     - name: Run Python file
-      run: python -m py_compileproject1.py
+      run: python -m py_compile project1.py
